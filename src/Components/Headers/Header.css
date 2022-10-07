@@ -1,0 +1,21 @@
+.headers{
+    background-color: navy;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 140px;
+
+}
+
+.headers a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 30px;
+    text-transform: capitalize;
+}
+.headers a:hover{
+    color: tomato;
+    transition: .4s;
+}
